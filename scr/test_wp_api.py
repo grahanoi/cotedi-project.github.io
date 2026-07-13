@@ -8,12 +8,9 @@ for post in posts:
     print(post['id'], post['title']['rendered'], post['date'][:10], post['content']['rendered'], post['link'], post['author'])  # Print first 100 characters of content """
 
 
-# TODO: Get API User name and password
 # TODO: hero, language and partner fields are not available in the API, so we need to find a way to get them. 
 # TODO: Use same description body as the website
 # TODO: Automatically generate the YAML front matter for each post, including the hero image, language, and partner fields.
-# TODO: Implement a function that creats a new page in the Cotedi Repo
-# TODO: Content als HTML lassen
 
 from wp_api import WPClient
 from html.parser import HTMLParser
