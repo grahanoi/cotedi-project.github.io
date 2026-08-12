@@ -13,11 +13,11 @@ description: These Designed Activities are innovative, ready-to-use computationa
 link: https://imaginatic.es/designed-activities/
 type: post
 tags: []
-hero: https://imaginatic.es/wp-content/uploads/2025/06/monstruos1.jpg
+hero: monstruos1.jpg
 gallery_images:
-- https://imaginatic.es/wp-content/uploads/2025/07/composite_emy-1024x267.jpg
-- https://imaginatic.es/wp-content/uploads/2025/07/monstruos_algoritmos_composite-1024x175.jpg
-- https://imaginatic.es/wp-content/uploads/2025/06/pedroduque_population_activity_composite_blurred2-1024x251.jpg
+- composite_emy-1024x267.jpg
+- monstruos_algoritmos_composite-1024x175.jpg
+- pedroduque_population_activity_composite_blurred2-1024x251.jpg
 language: es_ES
 author_name: María Zapata Cáceres
 ---
@@ -65,7 +65,7 @@ The following are selected examples of designed activities included in the book 
 
 Creating Stories and Learning Letters and Numbers with Cubetto
 
-![](https://imaginatic.es/wp-content/uploads/2025/07/composite_emy-1024x267.jpg)
+![](composite_emy-1024x267.jpg)
 
 Hermelinda Quintanar Ferreira. Speech and Language Teacher of Comunidad de Madrid. Collaborator at Universidad Rey Juan Carlos
 
@@ -81,7 +81,7 @@ You can download the full activity description from the following link. It inclu
 
 Algorithms for Drawing
 
-![](https://imaginatic.es/wp-content/uploads/2025/07/monstruos_algoritmos_composite-1024x175.jpg)
+![](monstruos_algoritmos_composite-1024x175.jpg)
 
 María Zapata Cáceres y Estefanía Martín Barroso. CoTEDI Team.
 
@@ -99,7 +99,7 @@ The main objective of the activity is to improve understanding of instruction se
 
 Teaching the Distribution of Spanish Population with LEGO® Bricks
 
-![](https://imaginatic.es/wp-content/uploads/2025/06/pedroduque_population_activity_composite_blurred2-1024x251.jpg)
+![](pedroduque_population_activity_composite_blurred2-1024x251.jpg)
 
 Pablo A. Haya Coll. Universidad Autónoma de Madrid. CoTEDI Collaborator.
 

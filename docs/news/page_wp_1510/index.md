@@ -15,16 +15,16 @@ description: As part of the CoTEDI project, we also carry out diverse disseminat
 link: https://imaginatic.es/other-training-dissemination-events/
 type: post
 tags: []
-hero: https://imaginatic.es/wp-content/uploads/2025/07/IMG-20250213-WA0015.jpg
+hero: IMG-20250213-WA0015.jpg
 gallery_images:
-- https://imaginatic.es/wp-content/uploads/2025/07/composite_conference_storycode-1024x166.jpg
-- https://imaginatic.es/wp-content/uploads/2025/07/ai_implementation_composite_reversed-1-1024x229.jpg
-- https://imaginatic.es/wp-content/uploads/2025/07/scientists_in_the_classroom_composite-1024x208.jpg
-- https://imaginatic.es/wp-content/uploads/2025/07/ciencia_mujer_nina_composite-1024x202.jpg
-- https://imaginatic.es/wp-content/uploads/2025/07/composite_CP_PrincipesAsturias-1024x254.jpg
-- https://imaginatic.es/wp-content/uploads/2025/07/madrid_es_ciencia_composite-1-1024x256.jpg
-- https://imaginatic.es/wp-content/uploads/2025/07/composite_challenges2024_final-1024x254.jpg
-- https://imaginatic.es/wp-content/uploads/2025/07/composite_may13_URJC-1024x256.jpg
+- composite_conference_storycode-1024x166.jpg
+- ai_implementation_composite_reversed-1-1024x229.jpg
+- scientists_in_the_classroom_composite-1024x208.jpg
+- ciencia_mujer_nina_composite-1024x202.jpg
+- composite_CP_PrincipesAsturias-1024x254.jpg
+- madrid_es_ciencia_composite-1-1024x256.jpg
+- composite_challenges2024_final-1024x254.jpg
+- composite_may13_URJC-1024x256.jpg
 language: es_ES
 author_name: María Zapata Cáceres
 ---
@@ -36,7 +36,7 @@ As part of the CoTEDI project, we also carry out diverse dissemination and aware
 
 Conference: Computational Thinking in All Educational Stages
 
-![](https://imaginatic.es/wp-content/uploads/2025/07/composite_conference_storycode-1024x166.jpg)
+![](composite_conference_storycode-1024x166.jpg)
 
 **Date:** May 23, 2025
 
@@ -55,7 +55,7 @@ This international event brought together educators, researchers, and stakeholde
 
 Conference: Final Event of the Artificial Intelligence Course
 
-![](https://imaginatic.es/wp-content/uploads/2025/07/ai_implementation_composite_reversed-1-1024x229.jpg)
+![](ai_implementation_composite_reversed-1-1024x229.jpg)
 
 **Date:** May 19th, 2025
 
@@ -83,7 +83,7 @@ This event marked the culmination of a months-long training initiative that reac
 
 Scientists in the Classroom
 
-![](https://imaginatic.es/wp-content/uploads/2025/07/scientists_in_the_classroom_composite-1024x208.jpg)
+![](scientists_in_the_classroom_composite-1024x208.jpg)
 
 **Date:** February 11, 2025
 
@@ -97,7 +97,7 @@ This initiative aims to bring female scientific role models into the classroom a
 
 Participation in the event The Science of the Future Starts Here – International Day of Women and Girls in Science
 
-![](https://imaginatic.es/wp-content/uploads/2025/07/ciencia_mujer_nina_composite-1024x202.jpg)
+![](ciencia_mujer_nina_composite-1024x202.jpg)
 
 **Date:** 11 February 2025
 
@@ -112,7 +112,7 @@ More information can be found in the official news article from UPM:
 
 Event: Discovering Artificial Intelligence and Computer Science
 
-![](https://imaginatic.es/wp-content/uploads/2025/07/composite_CP_PrincipesAsturias-1024x254.jpg)
+![](composite_CP_PrincipesAsturias-1024x254.jpg)
 
 **Date: 13/02/2024**
 
@@ -130,7 +130,7 @@ This initiative, part of URJC’s commitment to inclusive STEM education, aimed 
 
 Public Talk: How Can I Develop My Computational Thinking?
 
-![](https://imaginatic.es/wp-content/uploads/2025/07/madrid_es_ciencia_composite-1-1024x256.jpg)
+![](madrid_es_ciencia_composite-1-1024x256.jpg)
 
 **Date: 07/03/2024**
 
@@ -149,7 +149,7 @@ The event highlighted the importance of making these concepts understandable and
 
 Conference: CHALLENGES 2024: Resources, Practices, Curriculum and Policies
 
-![](https://imaginatic.es/wp-content/uploads/2025/07/composite_challenges2024_final-1024x254.jpg)
+![](composite_challenges2024_final-1024x254.jpg)
 
 **Date: 09–10/05/2024**
 
@@ -165,7 +165,7 @@ Her contribution emphasized the importance of accessible, inclusive educational 
 
 Presentation: Research and Activities on Computational Thinking and AI at URJC: CoTEDI, FAIaS and More
 
-![](https://imaginatic.es/wp-content/uploads/2025/07/composite_may13_URJC-1024x256.jpg)
+![](composite_may13_URJC-1024x256.jpg)
 
 **Date:** May 13, 2024  
 **Location:** Universidad Rey Juan Carlos, Madrid (Spain)

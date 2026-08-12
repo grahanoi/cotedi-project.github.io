@@ -13,23 +13,23 @@ description: The «Multiples Calculator» activity combines mathematical concept
 link: https://imaginatic.es/multiples-calculator/
 type: post
 tags: []
-hero: https://imaginatic.es/wp-content/uploads/2025/07/Screenshot_7.jpg
+hero: Screenshot_7.jpg
 gallery_images:
-- https://imaginatic.es/wp-content/uploads/2025/06/Screenshot_10-300x155.jpg
-- https://imaginatic.es/wp-content/uploads/2025/06/Screenshot_11-300x83.jpg
-- https://imaginatic.es/wp-content/uploads/2025/06/Screenshot_12-300x169.jpg
-- https://imaginatic.es/wp-content/uploads/2025/06/Screenshot_13-300x166.jpg
-- https://imaginatic.es/wp-content/uploads/2025/06/Screenshot_14-300x226.jpg
-- https://imaginatic.es/wp-content/uploads/2025/06/Screenshot_15-300x169.jpg
-- https://imaginatic.es/wp-content/uploads/2025/06/Screenshot_16-300x163.jpg
-- https://imaginatic.es/wp-content/uploads/2025/06/Screenshot_17-300x225.jpg
-- https://imaginatic.es/wp-content/uploads/2025/06/Screenshot_18-300x166.jpg
-- https://imaginatic.es/wp-content/uploads/2025/06/Screenshot_19-300x225.jpg
-- https://imaginatic.es/wp-content/uploads/2025/06/Screenshot_20-300x169.jpg
-- https://imaginatic.es/wp-content/uploads/2025/06/Screenshot_21-300x226.jpg
-- https://imaginatic.es/wp-content/uploads/2025/06/Screenshot_22-300x112.jpg
-- https://imaginatic.es/wp-content/uploads/2025/06/Screenshot_23-300x156.jpg
-- https://imaginatic.es/wp-content/uploads/2025/07/divisors_programming_composite-1024x254.jpg
+- Screenshot_10-300x155.jpg
+- Screenshot_11-300x83.jpg
+- Screenshot_12-300x169.jpg
+- Screenshot_13-300x166.jpg
+- Screenshot_14-300x226.jpg
+- Screenshot_15-300x169.jpg
+- Screenshot_16-300x163.jpg
+- Screenshot_17-300x225.jpg
+- Screenshot_18-300x166.jpg
+- Screenshot_19-300x225.jpg
+- Screenshot_20-300x169.jpg
+- Screenshot_21-300x226.jpg
+- Screenshot_22-300x112.jpg
+- Screenshot_23-300x156.jpg
+- divisors_programming_composite-1024x254.jpg
 language: es_ES
 author_name: María Zapata Cáceres
 ---
@@ -93,7 +93,7 @@ The concepts of prime and composite numbers are introduced. A prime number is re
 
 * In this activity, each prime number is associated with a specific color: blue (2), yellow (3), pink (5), white (7), red (11, 13, 17, and 19). Figure 1 shows the color code used in this session.
 
-![](https://imaginatic.es/wp-content/uploads/2025/06/Screenshot_10-300x155.jpg)
+![](Screenshot_10-300x155.jpg)
 
 *Figure 1. Multiples. Session 1. Image showing the color code.*
 
@@ -102,7 +102,7 @@ The concepts of prime and composite numbers are introduced. A prime number is re
 
 An example of the outcome from this activity is shown in Figure 2.
 
-*![](https://imaginatic.es/wp-content/uploads/2025/06/Screenshot_11-300x83.jpg)*
+*![](Screenshot_11-300x83.jpg)*
 
 *Figure 2.Multiples. Session 1. Example of numbers up to 20*.
 
@@ -112,7 +112,7 @@ An example of the outcome from this activity is shown in Figure 2.
 * Taking turns, students roll a die and build the first five multiples of the number they rolled. Figure 3 shows examples of the multiples of 2, 3, and 4 from left to right.
 * As a variation, students can roll the die twice, then either add or multiply the two numbers, and create the first three multiples of the resulting number.
 
-![](https://imaginatic.es/wp-content/uploads/2025/06/Screenshot_12-300x169.jpg)
+![](Screenshot_12-300x169.jpg)
 
 *Figure 3.Multiples. Session 1. Multiples activity with Lego.*
 
@@ -132,7 +132,7 @@ Therefore, the divisors of 12 are: 2, 3, 4, 6, and 12.
 
 Figure 4 illustrates how this concept is explained during the presentation.
 
-![](https://imaginatic.es/wp-content/uploads/2025/06/Screenshot_13-300x166.jpg)
+![](Screenshot_13-300x166.jpg)
 
 *Figure 4.Multiples. Session 1. Slide explaining the concept of divisors*
 
@@ -165,7 +165,7 @@ The proposed activities will be delivered in two formats depending on the studen
 * Guided exercises for those new to electronics.
 * Challenge-based tasks for students with existing experience.
 
-![](https://imaginatic.es/wp-content/uploads/2025/06/Screenshot_14-300x226.jpg)
+![](Screenshot_14-300x226.jpg)
 
 *Figure 5. Multiples. Session 2. Examples of devices and materials used.*
 
@@ -187,7 +187,7 @@ The concept of a circuit is briefly explained, followed by instructions on conne
 
 Figure 6 shows how to connect the devices properly. Clips must grip the connector firmly rather than being inserted through holes, as incorrect connections prevent circuit completion.
 
-![](https://imaginatic.es/wp-content/uploads/2025/06/Screenshot_15-300x169.jpg)
+![](Screenshot_15-300x169.jpg)
 
 *Figure 6. Multiples. Session 2. Connecting a circuit.*
 
@@ -199,13 +199,13 @@ For example, touching the foil on the blue Lego piece triggers the character to 
 
 Figure 7 shows an example of classroom activity and solution. For beginners, the necessary programming blocks are introduced and explained. Students arrange the blocks correctly to program the blue color response, then test their work.
 
-![](https://imaginatic.es/wp-content/uploads/2025/06/Screenshot_16-300x163.jpg)
+![](Screenshot_16-300x163.jpg)
 
 *Figure 7. Multiples. Activity 2. The cat says the colors of the Lego pieces.*
 
 Finally, they duplicate the program for the yellow and pink colors and verify functionality. Figure 8 presents an example of a programmed circuit in this activity, showing the developed program, the character responding with the correct color, and the board connected to a computer. It also illustrates how students must touch the clip and conductive material to close the circuit and trigger the response.
 
-![](https://imaginatic.es/wp-content/uploads/2025/06/Screenshot_17-300x225.jpg)
+![](Screenshot_17-300x225.jpg)
 
 *Figure 8.Multiples. Session 2. Example of programming in the classroom.*
 
@@ -238,7 +238,7 @@ To guide the creation of the multiples calculator, the following steps are propo
 * Allow students time to think about how to solve the problem and which blocks to use. For beginners, provide guidance on necessary blocks.
 * Display the blocks in a scrambled order (as shown in Figure 9) and ask students to arrange them correctly to create the program.
 
-![](https://imaginatic.es/wp-content/uploads/2025/06/Screenshot_18-300x166.jpg)
+![](Screenshot_18-300x166.jpg)
 
 *Figure 9. Multiples. Session 3. Unordered blocks and correct programming*
 
@@ -248,7 +248,7 @@ To guide the creation of the multiples calculator, the following steps are propo
 
 Figure 10 shows an example of the final result, where students have successfully programmed the multiples calculator using boards and a block-based programming tool.
 
-![](https://imaginatic.es/wp-content/uploads/2025/06/Screenshot_19-300x225.jpg)
+![](Screenshot_19-300x225.jpg)
 
 *Figure 10. Multiples. Session 3. Example of the multiples calculator*
 
@@ -258,23 +258,23 @@ Figure 11 shows on the left how the explanation of the activity with Lego blocks
 
 In Figure 12, the board with the necessary connections to run the program is shown. On the computer screen, the program for the calculator of the number 2 is visible on the left side, and on the right side, the character can be seen with the variable displaying the number 1 above it on the left.
 
-![](https://imaginatic.es/wp-content/uploads/2025/06/Screenshot_20-300x169.jpg)
+![](Screenshot_20-300x169.jpg)
 
 *Figure 11. Session 1 implementation. Prime and composite numbers, multiples, and divisors with Lego*
 
-![](https://imaginatic.es/wp-content/uploads/2025/06/Screenshot_21-300x226.jpg)
+![](Screenshot_21-300x226.jpg)
 
 *Figure 12. Session 2 implementation: Presentation of Echidna and its connections*
 
 Figure 13 shows the explanation of the blocks needed to create one of the values and the menu where each block can be found. Additionally, the interactive whiteboard displays the explanation of variables.
 
-![](https://imaginatic.es/wp-content/uploads/2025/06/Screenshot_22-300x112.jpg)
+![](Screenshot_22-300x112.jpg)
 
 *Figure 13. Session 3 implementation: Multiples calculator. Explanation of variables*
 
 In Figure 14, two examples of programs created by different students are shown, with them verifying that the calculators work properly.
 
-![](https://imaginatic.es/wp-content/uploads/2025/06/Screenshot_23-300x156.jpg)
+![](Screenshot_23-300x156.jpg)
 
 *Figure 14. Session 3 implementation: Multiples calculator. Projects created*
 
@@ -350,4 +350,4 @@ Matesenelinsti (2011) Múltiplos y divisores con piezas de Lego. Disponible en:
 | **Additional details** | |
 | The activities proposed in the first session could be varied or expanded:  §  In Activity 1, students could be asked to create up to 25 or 30.  §  In Activity 2, it could be extended by making two dice rolls and then adding or multiplying the resulting numbers to find the multiples of those numbers.  §  In Activity 3, cards could be created so that students build those numbers with Lego pieces and identify their divisors.  In the second session, activities could be varied or expanded by changing the background and character or by adding voice and sound to the text displayed on the screen.  In the third session, the activity could be adapted if the boards are not available, but computers are, by creating the calculator in Scratch without connection to a board. It is also possible to allow customization of the characters used during programming. | |
 
-![](https://imaginatic.es/wp-content/uploads/2025/07/divisors_programming_composite-1024x254.jpg)
+![](divisors_programming_composite-1024x254.jpg)

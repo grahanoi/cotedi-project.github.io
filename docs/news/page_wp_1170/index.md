@@ -12,22 +12,22 @@ description: As part of the Erasmus+ CoTEDI project, we visit schools to carry o
 link: https://imaginatic.es/post-cotedi-demo1/
 type: post
 tags: []
-hero: https://imaginatic.es/wp-content/uploads/2024/05/foto-1-scaled.jpg
+hero: foto-1-scaled.jpg
 gallery_images:
-- https://imaginatic.es/wp-content/uploads/2025/07/codefarm_composite-1024x189.jpg
-- https://imaginatic.es/wp-content/uploads/2025/07/composicion_build_your_own_city-1024x186.jpg
-- https://imaginatic.es/wp-content/uploads/2025/07/output-1-1024x269.png
-- https://imaginatic.es/wp-content/uploads/2025/07/ai_implementation_composite_reversed-1024x229.jpg
-- https://imaginatic.es/wp-content/uploads/2025/07/calculadora_multiplos_composite_fixed-2-1024x222.jpg
-- https://imaginatic.es/wp-content/uploads/2025/06/pedroduque_population_activity_composite_blurred2-1024x251.jpg
-- https://imaginatic.es/wp-content/uploads/2025/07/scratchjr_workshop_composite-2-1024x251.jpg
-- https://imaginatic.es/wp-content/uploads/2025/07/matatalab_geometry_composite-1024x254.jpg
-- https://imaginatic.es/wp-content/uploads/2024/05/TodasJuntas-jpg-1024x228.jpg
-- https://imaginatic.es/wp-content/uploads/2024/05/Noticia-David-SpecialNeeds.jjpg_-1024x218.jpg
-- https://imaginatic.es/wp-content/uploads/2025/07/composite_cybersecurity_workshop-1024x254.jpg
-- https://imaginatic.es/wp-content/uploads/2025/07/composite_beebot_activity-2-1024x254.jpg
-- https://imaginatic.es/wp-content/uploads/2025/06/composite_algorithms_activity-1024x254.jpg
-- https://imaginatic.es/wp-content/uploads/2025/06/composite_image_cropped-1024x254.jpg
+- codefarm_composite-1024x189.jpg
+- composicion_build_your_own_city-1024x186.jpg
+- output-1-1024x269.png
+- ai_implementation_composite_reversed-1024x229.jpg
+- calculadora_multiplos_composite_fixed-2-1024x222.jpg
+- pedroduque_population_activity_composite_blurred2-1024x251.jpg
+- scratchjr_workshop_composite-2-1024x251.jpg
+- matatalab_geometry_composite-1024x254.jpg
+- TodasJuntas-jpg-1024x228.jpg
+- Noticia-David-SpecialNeeds.jjpg_-1024x218.jpg
+- composite_cybersecurity_workshop-1024x254.jpg
+- composite_beebot_activity-2-1024x254.jpg
+- composite_algorithms_activity-1024x254.jpg
+- composite_image_cropped-1024x254.jpg
 language: es_ES
 author_name: dataevidence
 ---
@@ -41,7 +41,7 @@ Many of these activities are included in the book [*Laboratorio de Pensamiento C
 
 Code-Farm - educational application with mini-games
 
-![](https://imaginatic.es/wp-content/uploads/2025/07/codefarm_composite-1024x189.jpg)
+![](codefarm_composite-1024x189.jpg)
 
 Gema Jiménez. School: CEIP Pedro Duque
 
@@ -64,7 +64,7 @@ This activity served both as a validation process and as a key step toward refin
 
 Build Your Own City
 
-![](https://imaginatic.es/wp-content/uploads/2025/07/composicion_build_your_own_city-1024x186.jpg)
+![](composicion_build_your_own_city-1024x186.jpg)
 
 *Cristina Martín Vozmediano*  
 ***Dates:** 1st–15th May 2025*
@@ -85,7 +85,7 @@ Overall, the experience combined hands-on construction and programming with team
 
 Time travellers implementation
 
-![](https://imaginatic.es/wp-content/uploads/2025/07/output-1-1024x269.png)
+![](output-1-1024x269.png)
 
 Belén Orihuela
 
@@ -114,7 +114,7 @@ The programme was implemented in two different schools:
 
 AI-Based Educational Implementations in Madrid Classrooms
 
-![](https://imaginatic.es/wp-content/uploads/2025/07/ai_implementation_composite_reversed-1024x229.jpg)
+![](ai_implementation_composite_reversed-1024x229.jpg)
 
 **Dates:** February 12th to April 30th, 2025
 
@@ -130,7 +130,7 @@ This activity is directly linked to the AI course’s main event and reinforces 
 
 Multiple Calculator Activity at CEIP Pedro Duque
 
-![](https://imaginatic.es/wp-content/uploads/2025/07/calculadora_multiplos_composite_fixed-2-1024x222.jpg)
+![](calculadora_multiplos_composite_fixed-2-1024x222.jpg)
 
 Date: January 27th – February 4th, 2025
 
@@ -146,7 +146,7 @@ This activity is part of the CoTEDI project (Computational Thinking for Educatio
 
 Exploring Population and Representation with LEGO in Primary School
 
-![](https://imaginatic.es/wp-content/uploads/2025/06/pedroduque_population_activity_composite_blurred2-1024x251.jpg)
+![](pedroduque_population_activity_composite_blurred2-1024x251.jpg)
 
 **Date:** 30/06/2024
 
@@ -168,7 +168,7 @@ You can find the chapter of the book translated into English for step-by-step im
 
 Inclusive Programming Workshop: ScratchJr for Computational Thinking and Creativity
 
-![](https://imaginatic.es/wp-content/uploads/2025/07/scratchjr_workshop_composite-2-1024x251.jpg)
+![](scratchjr_workshop_composite-2-1024x251.jpg)
 
 Date: 16/05/2024 and 23/05/024
 
@@ -184,7 +184,7 @@ This inclusive learning experience encouraged creativity, logic, and problem-sol
 
 Matatalab Robot Explores Geometry and Computational Thinking in 4th Grade
 
-![](https://imaginatic.es/wp-content/uploads/2025/07/matatalab_geometry_composite-1024x254.jpg)
+![](matatalab_geometry_composite-1024x254.jpg)
 
 **Date:** 07/05/2024
 
@@ -202,7 +202,7 @@ This workshop highlights the powerful synergy between mathematics and computatio
 
 Matatalab Robot Navigates Obstacle Courses to Boost Computational Thinking
 
-![](https://imaginatic.es/wp-content/uploads/2024/05/TodasJuntas-jpg-1024x228.jpg)
+![](TodasJuntas-jpg-1024x228.jpg)
 
 Date: 25/04/2024
 
@@ -222,7 +222,7 @@ The results of this workshop prove the importance of including educational robot
 
 Geometry without barriers: Inclusive robotics with Matatalab at URJC
 
-![](https://imaginatic.es/wp-content/uploads/2024/05/Noticia-David-SpecialNeeds.jjpg_-1024x218.jpg)
+![](Noticia-David-SpecialNeeds.jjpg_-1024x218.jpg)
 
 Date: 12/04/2024 
 
@@ -243,7 +243,7 @@ This initiative highlights the potential of educational robotics as a powerful t
 
 User-Level Cybersecurity Workshop for People with Special Needs
 
-![](https://imaginatic.es/wp-content/uploads/2025/07/composite_cybersecurity_workshop-1024x254.jpg)
+![](composite_cybersecurity_workshop-1024x254.jpg)
 
 **Date: 23/02/2024**
 
@@ -261,7 +261,7 @@ The activity was designed with inclusion and accessibility at its core, ensuring
 
 Bee-bot Shopping Adventure: Programming with Purpose
 
-![](https://imaginatic.es/wp-content/uploads/2025/07/composite_beebot_activity-2-1024x254.jpg)
+![](composite_beebot_activity-2-1024x254.jpg)
 
 **Date: 14/02/2024**
 
@@ -277,7 +277,7 @@ This hands-on experience allowed very young learners to explore basic programmin
 
 Drawing Algorithms: Learning to Code with Monsters
 
-![](https://imaginatic.es/wp-content/uploads/2025/06/composite_algorithms_activity-1024x254.jpg)
+![](composite_algorithms_activity-1024x254.jpg)
 
 Date: 12/02/2024
 
@@ -293,7 +293,7 @@ This hands-on activity helped students experience the importance of precision an
 
 Electric Cards Workshop: Learning Graph Theory through Hands-On Play
 
-![](https://imaginatic.es/wp-content/uploads/2025/06/composite_image_cropped-1024x254.jpg)
+![](composite_image_cropped-1024x254.jpg)
 
 Date: 06/02/2024
 

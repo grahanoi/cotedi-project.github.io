@@ -13,18 +13,18 @@ description: As part of the CoTEDI project, we offer training sessions for teach
 link: https://imaginatic.es/cotedi-at-zuyd-university-technology-experience-day-20024/
 type: post
 tags: []
-hero: https://imaginatic.es/wp-content/uploads/0202/06/teacher-trainning.png
+hero: teacher-trainning.png
 gallery_images:
-- https://imaginatic.es/wp-content/uploads/2025/07/teacher_training_netherlands_composite-1024x266.jpg
-- https://imaginatic.es/wp-content/uploads/2025/07/ddd-1024x187.png
-- https://imaginatic.es/wp-content/uploads/2025/07/ctif_ia_generativa_composite-1024x156.jpg
-- https://imaginatic.es/wp-content/uploads/2025/07/CoTEDI_AI_Teacher_Training_PedroDuque-1024x236.jpg
-- https://imaginatic.es/wp-content/uploads/2025/07/composicion_evento_IA_URJC-1024x227.jpg
-- https://imaginatic.es/wp-content/uploads/2025/07/training_teachers_lisbon_composite-1024x254.jpg
-- https://imaginatic.es/wp-content/uploads/2025/07/robotics_innovative_teachers_composite-1024x237.jpg
-- https://imaginatic.es/wp-content/uploads/2025/07/composite_pedroduque_20241205-1024x251.png
-- https://imaginatic.es/wp-content/uploads/2025/07/villalkor_composite-1024x251.jpg
-- https://imaginatic.es/wp-content/uploads/2025/07/chatgpt_docentes_composite-1024x191.jpg
+- teacher_training_netherlands_composite-1024x266.jpg
+- ddd-1024x187.png
+- ctif_ia_generativa_composite-1024x156.jpg
+- CoTEDI_AI_Teacher_Training_PedroDuque-1024x236.jpg
+- composicion_evento_IA_URJC-1024x227.jpg
+- training_teachers_lisbon_composite-1024x254.jpg
+- robotics_innovative_teachers_composite-1024x237.jpg
+- composite_pedroduque_20241205-1024x251.png
+- villalkor_composite-1024x251.jpg
+- chatgpt_docentes_composite-1024x191.jpg
 language: es_ES
 author_name: dataevidence
 ---
@@ -36,7 +36,7 @@ As part of the CoTEDI project, we offer training sessions for teachers to introd
 
 Professional Development for Teacher Coaches in the Netherlands (MIK & PIW Groep)
 
-![](https://imaginatic.es/wp-content/uploads/2025/07/teacher_training_netherlands_composite-1024x266.jpg)
+![](teacher_training_netherlands_composite-1024x266.jpg)
 
 **Date:** June 26th, 2025
 
@@ -48,7 +48,7 @@ On June 26th, 2025, a professional development session was held in the Netherlan
 
 Postgraduate Seminar: Computational Thinking in the Classroom – From Research to Teaching with Artificial Intelligence
 
-![](https://imaginatic.es/wp-content/uploads/2025/07/ddd-1024x187.png)
+![](ddd-1024x187.png)
 
 **Date:** March 25, 2025
 
@@ -62,7 +62,7 @@ The presentation provided insights from international projects such as CoTEDI, s
 
 Generative AI in Education: Strategies for Teachers from Early Childhood to Upper Secondary
 
-![](https://imaginatic.es/wp-content/uploads/2025/07/ctif_ia_generativa_composite-1024x156.jpg)
+![](ctif_ia_generativa_composite-1024x156.jpg)
 
 Date: 24th March, 2025
 
@@ -80,7 +80,7 @@ This event reflects CoTEDI’s ongoing commitment to empowering educators throug
 
 AI in the Classroom: Teacher Training Session at Pedro Duque School
 
-![](https://imaginatic.es/wp-content/uploads/2025/07/CoTEDI_AI_Teacher_Training_PedroDuque-1024x236.jpg)
+![](CoTEDI_AI_Teacher_Training_PedroDuque-1024x236.jpg)
 
 **Date:** March 14th, 2025
 
@@ -96,7 +96,7 @@ This session not only contributed to raising awareness about emerging technologi
 
 Artificial Intelligence Course: Basic Educational Activities for All Ages and Subjects – Comunidad de Madrid
 
-![](https://imaginatic.es/wp-content/uploads/2025/07/composicion_evento_IA_URJC-1024x227.jpg)
+![](composicion_evento_IA_URJC-1024x227.jpg)
 
 **Date:** 4 November 2024 to 19 May 2025
 
@@ -122,7 +122,7 @@ This edition positioned itself at the intersection of innovation and pedagogy, a
 
 Training teachers session in Lisbon, Portugal
 
-![](https://imaginatic.es/wp-content/uploads/2025/07/training_teachers_lisbon_composite-1024x254.jpg)
+![](training_teachers_lisbon_composite-1024x254.jpg)
 
 **Date**: February 25, 2025
 
@@ -138,7 +138,7 @@ The session concluded with a reflective roundtable back at IST, where teachers a
 
 Teacher Training Course (CTIF): Educational Robotics for Innovative Teachers
 
-![](https://imaginatic.es/wp-content/uploads/2025/07/robotics_innovative_teachers_composite-1024x237.jpg)
+![](robotics_innovative_teachers_composite-1024x237.jpg)
 
 **Dates:** January–March 2025
 
@@ -156,7 +156,7 @@ Participants learned to align robotic projects with key competencies and subject
 
 Training session on Computational Thinking for teachers at CEIP Pedro Duque
 
-![](https://imaginatic.es/wp-content/uploads/2025/07/composite_pedroduque_20241205-1024x251.png)
+![](composite_pedroduque_20241205-1024x251.png)
 
 **Date:** December 5th, 2024
 
@@ -170,7 +170,7 @@ This event is part of the series of actions carried out within the framework of 
 
 Teacher Training on Computational Thinking – Villalkor School
 
-![](https://imaginatic.es/wp-content/uploads/2025/07/villalkor_composite-1024x251.jpg)
+![](villalkor_composite-1024x251.jpg)
 
 **Date**: May 22 and 23, 2024
 
@@ -188,7 +188,7 @@ This training helped strengthen teachers’ capacity to implement inclusive and 
 
 How to use ChatGPT in the teaching field?
 
-![](https://imaginatic.es/wp-content/uploads/2025/07/chatgpt_docentes_composite-1024x191.jpg)
+![](chatgpt_docentes_composite-1024x191.jpg)
 
 Date: February 19th, 2024
 

@@ -14,21 +14,21 @@ description: The study examines the importance of Computational Thinking (CT) in
 link: https://imaginatic.es/5-robot-programming-challenges/
 type: post
 tags: []
-hero: https://imaginatic.es/wp-content/uploads/2025/07/Screenshot_24.jpg
+hero: Screenshot_24.jpg
 gallery_images:
-- https://imaginatic.es/wp-content/uploads/2025/07/Screenshot_25-300x217.jpg
-- https://imaginatic.es/wp-content/uploads/2025/07/Screenshot_28-300x203.jpg
-- https://imaginatic.es/wp-content/uploads/2025/07/Screenshot_29-300x188.jpg
-- https://imaginatic.es/wp-content/uploads/2025/07/Screenshot_30-300x173.jpg
-- https://imaginatic.es/wp-content/uploads/2025/07/Screenshot_31-300x272.jpg
-- https://imaginatic.es/wp-content/uploads/2025/07/Screenshot_32.jpg
-- https://imaginatic.es/wp-content/uploads/2025/07/Screenshot_33-300x268.jpg
-- https://imaginatic.es/wp-content/uploads/2025/07/Screenshot_34.jpg
-- https://imaginatic.es/wp-content/uploads/2025/07/Screenshot_35-300x111.jpg
-- https://imaginatic.es/wp-content/uploads/2025/07/Screenshot_36-300x95.jpg
-- https://imaginatic.es/wp-content/uploads/2025/07/Screenshot_37-300x150.jpg
-- https://imaginatic.es/wp-content/uploads/2025/07/Imagen1-300x191.png
-- https://imaginatic.es/wp-content/uploads/2025/07/output-1024x222.png
+- Screenshot_25-300x217.jpg
+- Screenshot_28-300x203.jpg
+- Screenshot_29-300x188.jpg
+- Screenshot_30-300x173.jpg
+- Screenshot_31-300x272.jpg
+- Screenshot_32.jpg
+- Screenshot_33-300x268.jpg
+- Screenshot_34.jpg
+- Screenshot_35-300x111.jpg
+- Screenshot_36-300x95.jpg
+- Screenshot_37-300x150.jpg
+- Imagen1-300x191.png
+- output-1024x222.png
 language: es_ES
 author_name: María Zapata Cáceres
 ---
@@ -78,7 +78,7 @@ The specific objectives of this study are outlined below, focusing on hypothesis
 
 The experience was implemented in all classes that had sufficient time available for its completion, specifically in eight secondary school classes. Figure 1 presents a schematic overview of the six sessions conducted. While the control groups participated only in Sessions 1 and 6, the experimental groups completed all sessions. Students worked in the different activities proposed during sessions 2 to 5. The first and last sessions were used to answer a questionnaire by the participants.
 
-![](https://imaginatic.es/wp-content/uploads/2025/07/Screenshot_25-300x217.jpg)
+![](Screenshot_25-300x217.jpg)
 
 Figure 1. Session outline
 
@@ -174,7 +174,7 @@ As the participants were minors, explicit consent was obtained through signed pe
 
 The main results of the activity showed that the experimental group experienced meaningful learning in computer skills, particularly among girls (Wilcoxon test; p = 0.0003031), who showed significant improvements compared to their male peers and the control group (boys in the experimental group: p = 0.8316; boys in the control group: p = 0.7588; girls in the control group: p = 0.8644). These findings suggest that meaningful learning in the experimental group occurred primarily among the girls. Figure 12 visually displays these results, where the means of the control and experimental groups, segmented by gender, can be observed in the pre- and post-tests of the experience.
 
-![](https://imaginatic.es/wp-content/uploads/2025/07/Imagen1-300x191.png)
+![](Imagen1-300x191.png)
 
 Figure 12. Graph showing the means of the control and experimental groups segmented by gender.
 
@@ -251,4 +251,4 @@ Zapata-Ros, M. (2015). Pensamiento computacional: Una nueva alfabetización digi
 | **Additional details** | |
 | The main problems identified have been:  §  Lack of attention and understanding.  §  Low capacity for abstraction.  §  Difficulty in refining and building on acquired experience.  The proposed improvements are:  §  Adaptations of activities for gifted students and students with learning difficulties.  §  Extending the duration of activities (number of sessions and number of tasks).  §  Smaller working groups (preferably individual work) and more suitable classrooms. | |
 
-![](https://imaginatic.es/wp-content/uploads/2025/07/output-1024x222.png)
+![](output-1024x222.png)

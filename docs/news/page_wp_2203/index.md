@@ -13,26 +13,26 @@ description: Computational Thinking should be progressively developed from the e
 link: https://imaginatic.es/time-travellers/
 type: post
 tags: []
-hero: https://imaginatic.es/wp-content/uploads/2025/07/Screenshot_38.jpg
+hero: Screenshot_38.jpg
 gallery_images:
-- https://imaginatic.es/wp-content/uploads/2025/06/Imagen2-296x300.png
-- https://imaginatic.es/wp-content/uploads/2025/06/Imagen3-300x113.png
-- https://imaginatic.es/wp-content/uploads/2025/06/Imagen4-300x99.png
-- https://imaginatic.es/wp-content/uploads/2025/06/Imagen5-300x104.png
-- https://imaginatic.es/wp-content/uploads/2025/06/Imagen6-300x160.png
-- https://imaginatic.es/wp-content/uploads/2025/06/Imagen7-300x211.jpg
-- https://imaginatic.es/wp-content/uploads/2025/06/Imagen8-300x200.jpg
-- https://imaginatic.es/wp-content/uploads/2025/06/Imagen9-300x188.jpg
-- https://imaginatic.es/wp-content/uploads/2025/06/Imagen10-300x89.jpg
-- https://imaginatic.es/wp-content/uploads/2025/06/Imagen11-300x218.jpg
-- https://imaginatic.es/wp-content/uploads/2025/06/Imagen12-300x285.jpg
-- https://imaginatic.es/wp-content/uploads/2025/06/Imagen13-300x146.jpg
-- https://imaginatic.es/wp-content/uploads/2025/06/Imagen14-300x169.jpg
-- https://imaginatic.es/wp-content/uploads/2025/06/Imagen15-300x277.jpg
-- https://imaginatic.es/wp-content/uploads/2025/06/Imagen16-300x107.jpg
-- https://imaginatic.es/wp-content/uploads/2025/06/Imagen17-300x269.jpg
-- https://imaginatic.es/wp-content/uploads/2025/06/Imagen18-300x178.jpg
-- https://imaginatic.es/wp-content/uploads/2025/06/Imagen19-300x80.jpg
+- Imagen2-296x300.png
+- Imagen3-300x113.png
+- Imagen4-300x99.png
+- Imagen5-300x104.png
+- Imagen6-300x160.png
+- Imagen7-300x211.jpg
+- Imagen8-300x200.jpg
+- Imagen9-300x188.jpg
+- Imagen10-300x89.jpg
+- Imagen11-300x218.jpg
+- Imagen12-300x285.jpg
+- Imagen13-300x146.jpg
+- Imagen14-300x169.jpg
+- Imagen15-300x277.jpg
+- Imagen16-300x107.jpg
+- Imagen17-300x269.jpg
+- Imagen18-300x178.jpg
+- Imagen19-300x80.jpg
 language: es_ES
 author_name: María Zapata Cáceres
 ---
@@ -295,7 +295,7 @@ To implement this proposal, the following resources are needed (further details 
 * **Physical Timeline.**
 * **Markers, Pencils, and Scissors:** For material creation.
 
-![](https://imaginatic.es/wp-content/uploads/2025/06/Imagen2-296x300.png)
+![](Imagen2-296x300.png)
 
 **Figure** **1**. MatataStudio Coding Set.
 
@@ -347,81 +347,81 @@ The project was implemented in **June 2025** at both schools with 5th-grade stud
 
 On Thursday, June 5, the project began at School 1 with Class 1. Initial tests were administered, the program was presented, and Padlet’s use as an evidence repository was explained. After dividing students into six groups, Activity 1 was carried out, and missions for Prehistory, Ancient Age, and partially, the Contemporary Age began, with the latter completed in a later session. Technical difficulties were encountered when uploading large video files to Padlet; this was resolved by compressing them via WhatsApp through teacher accounts. It was also noted that file upload capability varied by browser.
 
-![](https://imaginatic.es/wp-content/uploads/2025/06/Imagen3-300x113.png)
+![](Imagen3-300x113.png)
 
 **Figure 2. Activity 1: School 1 – Class 1.**
 
-![](https://imaginatic.es/wp-content/uploads/2025/06/Imagen4-300x99.png)
+![](Imagen4-300x99.png)
 
 **Figure 3. Prehistory Mission: School 1 – Class 1.**
 
-![](https://imaginatic.es/wp-content/uploads/2025/06/Imagen5-300x104.png)
+![](Imagen5-300x104.png)
 
 **Figure 4. Ancient Age Mission: School 1 – Class 1.**
 
-![](https://imaginatic.es/wp-content/uploads/2025/06/Imagen6-300x160.png)
+![](Imagen6-300x160.png)
 
 **Figure 5. Contemporary Age Mission: School 1 – Class 1.**
 
 On Friday, June 6, and Monday, June 9, the initial project activities were implemented at School 2 with Classes 1, 2, 3, and 4. In all cases, initial tests were administered, the project and Padlet use were introduced, students were divided into groups, Activity 1 was performed, and missions corresponding to Prehistory and Ancient Age were carried out. Some groups faced technical difficulties with robot programming, preventing successful completion of the activity. It was also observed that ambient light affected the devices’ sensors, requiring direct light (solved with mobile phone flashlights) for proper functioning.
 
-![](https://imaginatic.es/wp-content/uploads/2025/06/Imagen7-300x211.jpg)
+![](Imagen7-300x211.jpg)
 
 **Figure 6. Activity 1: School 2 – Class 1.**
 
-![](https://imaginatic.es/wp-content/uploads/2025/06/Imagen8-300x200.jpg)
+![](Imagen8-300x200.jpg)
 
 **Figure 7. Prehistory Mission: School 2 – Class 3.**
 
-![](https://imaginatic.es/wp-content/uploads/2025/06/Imagen9-300x188.jpg)
+![](Imagen9-300x188.jpg)
 
 **Figure 8. Ancient Age Mission: School 2 – Class 3.**
 
 On Tuesday, June 10, activities related to the Middle Ages and the Modern Age were conducted. Dynamics were group-based, and due to the occupation of the 5th B classroom after recess, teams from that group were distributed among other classes.
 
-![](https://imaginatic.es/wp-content/uploads/2025/06/Imagen10-300x89.jpg)
+![](Imagen10-300x89.jpg)
 
 **Figure 9. Middle Ages Mission: School 2.**
 
-![](https://imaginatic.es/wp-content/uploads/2025/06/Imagen11-300x218.jpg)
+![](Imagen11-300x218.jpg)
 
 **Figure 10. Middle Ages Mission: School 2.**
 
-![](https://imaginatic.es/wp-content/uploads/2025/06/Imagen12-300x285.jpg)
+![](Imagen12-300x285.jpg)
 
 **Figure 11. Modern Age Mission: School 2.**
 
 On Wednesday, June 11, the activity for the Contemporary Age was carried out. The session began with a collective oral review of historical stages to contextualize the activity. Students deciphered Morse code messages, created their own, and exchanged them with peers. This activity generated high engagement. Some groups, noticing the absence of the letter «ñ» in the Morse alphabet, developed their own symbol for it, demonstrating problem-solving, a key CT skill.
 
-![](https://imaginatic.es/wp-content/uploads/2025/06/Imagen13-300x146.jpg)
+![](Imagen13-300x146.jpg)
 
 **Figure 12. Contemporary Age Mission: School 2.**
 
-![](https://imaginatic.es/wp-content/uploads/2025/06/Imagen14-300x169.jpg)
+![](Imagen14-300x169.jpg)
 
 **Figure 13. Contemporary Age Mission: School 2 with code resolution.**
 
 On Thursday, June 12, the final activity took place at School 2: the **timeline construction**. Students analyzed, chronologically ordered, and visually represented key milestones from each period, uploading an image or video of the final result to Padlet.
 
-![](https://imaginatic.es/wp-content/uploads/2025/06/Imagen15-300x277.jpg)
+![](Imagen15-300x277.jpg)
 
 **Figure 14. Final Mission: Timeline construction in School 2.**
 
 Finally, on Monday, June 16, activities resumed at School 1 with Class 1, completing missions for the Middle Ages, Modern Age, and Contemporary Age, in addition to the final timeline activity and evaluation.
 
-![](https://imaginatic.es/wp-content/uploads/2025/06/Imagen16-300x107.jpg)
+![](Imagen16-300x107.jpg)
 
 **Figure 15. Middle Ages Mission: School 1.**
 
-![](https://imaginatic.es/wp-content/uploads/2025/06/Imagen17-300x269.jpg)
+![](Imagen17-300x269.jpg)
 
 **Figure 16. Modern Age Mission: School 1.**
 
-![](https://imaginatic.es/wp-content/uploads/2025/06/Imagen18-300x178.jpg)
+![](Imagen18-300x178.jpg)
 
 **Figure 17. Contemporary Age Mission: School 1.**
 
-![](https://imaginatic.es/wp-content/uploads/2025/06/Imagen19-300x80.jpg)
+![](Imagen19-300x80.jpg)
 
 **Figure 18. Final Mission: Timeline construction School 1.**
 
